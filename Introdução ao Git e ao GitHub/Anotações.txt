@@ -1,2 +1,11 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Site para aprender mas sobre a sintaxe básica de markdown: Basic Syntax | Markdown Guide
+
+Comandos úteis para o Git Bash:
+- 'git status'
+- 'git add .' ou 'git add -A' efetivamente enviar arquivos para o controle de versão. Adiciona apenas no controle de versão local.
+- 'git commit -m "Mensagem"' 
+- 'git push origin main' enviar todos os commits locais para a nuvem
+ 
